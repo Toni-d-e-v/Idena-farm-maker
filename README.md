@@ -9,7 +9,9 @@ to download on all computers on network soon
 # What does it Use
 Custom idena node updater script it will update your node automacly, has custom idena client downloder wrtiren by toni.dev.
 # System you need
-```win 7
+```
+   win xp(not tested)
+   win 7
    win 8
    win 10
   ```
