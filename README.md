@@ -6,3 +6,4 @@ run: git clone https://github.com/Toni-d-e-v/Idena-farm-maker/
 and run 2 bats
 to download on all computers on network soon
 ```
+!link[]
